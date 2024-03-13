@@ -12,4 +12,5 @@ link do curso: https://ebaconline.com.br/front-end-profession#price
 
 Durante este primeiro projeto  praticaquei os conhecimentos de HTML e CSS. Meu cliente ficticio se chama Games Shop e  desenvolvi uma landing page.
 
-![image](https://github.com/natsalete/Modulo-5-Projeto-1---Games-Shop/assets/135389319/be00c3eb-9128-4f23-ac59-c24b7e7017e9)
+![Captura de tela 2024-03-12 164829](https://github.com/natsalete/Modulo-5-Projeto-1/assets/135389319/c882014b-c1f5-4e59-b16d-b1b8590a1838)
+
